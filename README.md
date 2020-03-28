@@ -1,3 +1,18 @@
+<b>Hints -</b> After download the project run 2 command in your root project on console -
+<b>composer update </b> and
+<b>sudo chmod -R 777 bootstrap/ storage/ </b>
+After that
+create a database <b>interview</b>
+and create table using migration and type
+<b>php artisan migrate</b> and after that 
+<b>or directly import database laravel.sql</b> <br>
+
+<b>Laravel Feature Used -</b> Migration, Helpers, Atisian commond for MVC, Routing Name, FirstWhere,Laravel View customize (Yield('content'), yield('css'),Yield('title'),yield('script'),@include('layout.common')), Laravel Auth, Passport etc.
+
+<b>Thanks -</b>
+<i>Shubham Gupta</b>
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
