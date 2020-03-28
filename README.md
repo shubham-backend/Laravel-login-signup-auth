@@ -2,7 +2,7 @@
 <b>composer update </b> and
 <b>sudo chmod -R 777 bootstrap/ storage/ </b>
 After that
-create a database <b>interview</b>
+create a database <b>laravel</b>
 and create table using migration and type
 <b>php artisan migrate</b> and after that 
 <b>or directly import database laravel.sql</b> <br>
